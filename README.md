@@ -5,11 +5,12 @@ Projeto Final - Trilha DS-PY-004 TÉCNICAS DE PROGRAMAÇÃO I (PY) - Turma 890
 Grupo 01
 
 ✒️ Autores - integrantes:
+- Aldair Soares
+- Aprígio Gusmão
+- Daniel Tsuzuki
+- Reginaldo Aquino
+- Victor Cézar
 
-Aldair Soares
-Aprígio Gusmão
-Daniel Tsuzuki
-Reginaldo Aquino
 
 ⚙️ Dataset: Home Credit Default Risk (Kaggle)
 
